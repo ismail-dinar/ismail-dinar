@@ -10,7 +10,7 @@
 
 - 🤔 &nbsp; Developing software solutions and learning new things every day.
 - 🎓 &nbsp; Engineer's degree from INSAT - Tunisia
-- 💼 &nbsp; Working as a Software Developer at New Access.
+- 💼 &nbsp; Working as a Frontend Developer at New Access.
 - 📫 &nbsp; How to reach me : <a href="mailto:ismaildinar96@gmail.com" target="_blank">ismaildinar96@gmail.com</a>
 - ⚡ &nbsp; Fun fact: I love new technologies and video games.
 
